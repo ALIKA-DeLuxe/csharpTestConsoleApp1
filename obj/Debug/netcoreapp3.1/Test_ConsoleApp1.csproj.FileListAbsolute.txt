@@ -1,0 +1,11 @@
+c:\Users\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.exe
+C:\Users\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.deps.json
+C:\Users\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.runtimeconfig.json
+C:\Users\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.runtimeconfig.dev.json
+c:\Users\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.dll
+c:\Users\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.pdb
+c:\Users\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.csprojAssemblyReference.cache
+c:\Users\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.AssemblyInfo.cs
+c:\Users\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.dll
+c:\Users\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.pdb
