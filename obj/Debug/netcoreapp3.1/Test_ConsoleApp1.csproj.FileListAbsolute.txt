@@ -9,3 +9,14 @@ c:\Users\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleA
 c:\Users\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.AssemblyInfo.cs
 c:\Users\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.dll
 c:\Users\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.pdb
+d:\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.exe
+D:\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.deps.json
+D:\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.runtimeconfig.json
+D:\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.runtimeconfig.dev.json
+d:\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.dll
+d:\alika\dev\csharp\Test_ConsoleApp1\bin\Debug\netcoreapp3.1\Test_ConsoleApp1.pdb
+d:\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.csprojAssemblyReference.cache
+d:\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.AssemblyInfoInputs.cache
+d:\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.AssemblyInfo.cs
+d:\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.dll
+d:\alika\dev\csharp\Test_ConsoleApp1\obj\Debug\netcoreapp3.1\Test_ConsoleApp1.pdb

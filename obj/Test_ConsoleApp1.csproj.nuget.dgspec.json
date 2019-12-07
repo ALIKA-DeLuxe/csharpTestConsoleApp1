@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alika\\dev\\csharp\\Test_ConsoleApp1\\Test_ConsoleApp1.csproj": {}
+    "D:\\alika\\dev\\csharp\\Test_ConsoleApp1\\Test_ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alika\\dev\\csharp\\Test_ConsoleApp1\\Test_ConsoleApp1.csproj": {
+    "D:\\alika\\dev\\csharp\\Test_ConsoleApp1\\Test_ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alika\\dev\\csharp\\Test_ConsoleApp1\\Test_ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\alika\\dev\\csharp\\Test_ConsoleApp1\\Test_ConsoleApp1.csproj",
         "projectName": "Test_ConsoleApp1",
-        "projectPath": "C:\\Users\\alika\\dev\\csharp\\Test_ConsoleApp1\\Test_ConsoleApp1.csproj",
+        "projectPath": "D:\\alika\\dev\\csharp\\Test_ConsoleApp1\\Test_ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\alika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alika\\dev\\csharp\\Test_ConsoleApp1\\obj\\",
+        "outputPath": "D:\\alika\\dev\\csharp\\Test_ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alika\\AppData\\Roaming\\NuGet\\NuGet.Config"
