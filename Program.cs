@@ -14,12 +14,17 @@ namespace Test_ConsoleApp1
                 {
                     ki = Console.ReadKey(false);
                     string time = DateTime.Now.ToString();
-                    Console.WriteLine("{0}: {1} is sent.", time, ki.ToString());
+                    Console.WriteLine("{0}: {1} is sent.", time, ki.Key.ToString());
                 } while (ki.Key != ConsoleKey.Enter);
             }
             catch (Exception e)
             {
                 Console.Error.WriteLine(e.StackTrace);
+            }
+            finally
+            {
+                Console.WriteLine("\nHit return key.");
+                Console.Read();
             }
         }
     }
