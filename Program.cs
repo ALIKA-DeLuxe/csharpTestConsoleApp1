@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Test_ConsoleApp1
 {
@@ -6,16 +6,16 @@ namespace Test_ConsoleApp1
     {
         static void Main(string[] args)
         {
-            ConsoleKeyInfo ki;
+            ConsoleKeyInfo keyInfo;
             Console.WriteLine("Press <Enter> to exit.");
             try
             {
                 do
                 {
-                    ki = Console.ReadKey(false);
-                    string time = DateTime.Now.ToString();
-                    Console.WriteLine("{0}: {1} is sent.", time, ki.Key.ToString());
-                } while (ki.Key != ConsoleKey.Enter);
+                    keyInfo = Console.ReadKey(false);
+                    var time = DateTime.Now.ToString();
+                    Console.WriteLine("{0}: {1} is sent.", time, keyInfo.Key.ToString());
+                } while (keyInfo.Key != ConsoleKey.Enter);
             }
             catch (Exception e)
             {
